@@ -1,0 +1,44 @@
+/* Complete CSS styling code */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+.header {
+    background: #35424a;
+    color: white;
+    padding: 15px 0;
+    text-align: center;
+}
+
+.footer {
+    background: #35424a;
+    color: white;
+    padding: 10px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+.cta {
+    display: inline-block;
+    color: #fff;
+    background: #e8491d;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+
+.card {
+    background: white;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 5px;
+    border: 1px solid #e6e6e6;
+}
